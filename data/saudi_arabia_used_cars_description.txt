@@ -1,0 +1,20 @@
+Saudi Arabia Used Cars Dataset Description
+
+Source:
+https://www.kaggle.com/datasets/turkibintalib/saudi-arabia-used-cars-dataset
+
+Context:
+The dataset contains 5624 records of used cars collected from syarah.com. Each row represents a used car. Other information regarding each car includes the brand name, model, manufacturing year, origin, options, engine capacity, transmission type, mileage covered, region price, and whether the price is negotiable.
+
+Features:
+1. Type: Type of used car.
+2. Region: The region in which the used car was offered for sale.
+3. Make: The company name.
+4. Gear_Type: Gear type size of used car.
+5. Origin: Origin of used car.
+6. Options: Options of used car.
+7. Year: Manufacturing year.
+8. Engine_Size: The engine size of the used car.
+9. Mileage: Mileage of the used car.
+10. Negotiable: True if the price is 0, indicating that the price is negotiable.
+11. Price: Used car price.
